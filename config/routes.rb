@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   root 'home#index'
-  get 'home/prices'
-
+  get 'home/lookup'
+  get 'home/about'
  
 end
