@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
+gem 'json', '~> 2.3'
 gem 'sdoc', '~> 0.4.0',  group: :doc
 gem 'bootstrap', '~> 4.4', '>= 4.4.1'
 
