@@ -5,28 +5,21 @@ This is a Ruby and Ruby on Rails framework multi-purpose project. I have a varie
 
 Just download `space.exe` and you can get the game running on your desktop
 
+https://github.com/fion21/rubycrypto/blob/master/app/assets/images/display_pic.GIF
+
 ## Acknowledgments
 
 * Codemy.com
- Ruby Games Development
+ *Ruby Games Development
  
-  * Spiderman image
+* [Spiderman image](https://flyclipart.com/spider-man-png-image-background-png-arts-spiderman-png-345343)
  
- https://flyclipart.com/spider-man-png-image-background-png-arts-spiderman-png-345343
+ * [Gosu]
+ * [libgosu.org](https://github.com/gosu/gosu/wiki/Ruby-Tutorial), [Gosu github](https://raw.githubusercontent.com/gosu/gosu-examples/master/examples/media/star.png)
  
- * Gosu 
- * libgosu.org
+ * [Petra Image](https://www.lonelyplanet.com/jordan/petra)
  
- https://github.com/gosu/gosu/wiki/Ruby-Tutorial
- 
- https://raw.githubusercontent.com/gosu/gosu-examples/master/examples/media/star.png
- 
- * Petra Image
- 
- https://www.lonelyplanet.com/jordan/petra
- 
- * Game Sound effect
- https://www.freesoundeffects.com/free-sounds/drum-loops-10031/
+ * [Game Sound Effects](https://www.freesoundeffects.com/free-sounds/drum-loops-10031/)
  
  
  
