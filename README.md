@@ -3,7 +3,7 @@ This is a Ruby and Ruby on Rails framework multi-purpose project. It includes an
 
 ## Deployment
 
-Just download [`space.exe`](https://github.com/fion21/rubycrypto/blob/master/space.exe) and you can get the game running on your desktop.
+Just download [`space.rb`](https://github.com/fion21/rubycrypto/blob/master/space.exe) and you can get the game running on your desktop.
 
 ![space](https://github.com/fion21/rubycrypto/blob/master/app/assets/images/display_pic.GIF)
 
